@@ -1,16 +1,19 @@
-## Hi there 👋
+### would u like an apple? 
 
-<!--
-**hydroen65-node/hydroen65-node** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python                          
+                                      
+                   --=                     hydroen65@node ------------------------------------------- 🇨🇦
+                   ++                      . os ...................................... macos 27, omarchy
+            --------==--------             . languages.programming ......................... python, c++
+       ------===----=------=------         . dmoj ............................... dmoj.ca/user/Hydroen65
+      ----================+=+====--        . pronouns ........................................... he/him
+     ---=+++=++***%%%***++++==-=----       . orz ............................. bruce, relyks, allenbasic
+    ---==+++=+**%*%%%%*===++==-=---        . stuff.to.do ...................... cs, math, physics, piano
+     ---==+++***%%%%****++++===----        
+     ---=+++************++++===---         import sys
+       ---=++**************++=-            input = sys.stdin.readline
+         --=+*****%*%%%%***+-              print("hello ", input(), "! i lwk dont use github", sep="")
+            =++**%%%%****                  ---------------------------------------------------------- 🍎
+                                      
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
